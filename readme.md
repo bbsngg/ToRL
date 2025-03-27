@@ -30,7 +30,7 @@
 
 [2025/03/28] We're releasing the following components:
 
-- 🚀 **Training & Evaluation**: Complete implementation of our training pipeline and evaluation scripts
+- 🚀 **Training**: Complete implementation of our training pipeline
 - 🔥 **[ToRL Dataset](https://huggingface.co/datasets/GAIR/ToRL)**: Our curated dataset of 28k mathematical questions
 - 🤖 **[ToRL Model](https://huggingface.co/GAIR/ToRL)**: Model training with ToRL.
 
@@ -98,7 +98,7 @@ mkdir -p docs/build
 make run-online  
 ```  
 
-Replace the `sandbox_url` on line `109` of `verl/workers/rollout/vllm_rollout/vllm_rollout_spmd.py` with the URL of your sandbox.  
+Replace the `sandbox_url` on line `109` of `verl/workers/rollout/vllm_rollout/vllm_rollout_spmd.py` with the your sandbox.  
 
 ### Environment setup
 ```
