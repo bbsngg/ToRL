@@ -8,7 +8,7 @@
 <p align="center">
   📄 <a href="https://huggingface.co/datasets/GAIR/ToRL/torl.pdf" target="_blank">Paper</a> &nbsp; | &nbsp;
   🌐 <a href="https://github.com/GAIR-NLP/ToRL/tree/main/data/torl_data" target="_blank">Dataset</a> &nbsp; | &nbsp;
-  📘 <a href="https://huggingface.co/GAIR/ToRL" target="_blank">Model</a>
+  📘 <a href="https://huggingface.co/GAIR/ToRL-7B" target="_blank">Model</a>
 </p>
 
 
