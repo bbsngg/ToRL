@@ -7,7 +7,7 @@
 
 <p align="center">
   📄 <a href="https://huggingface.co/datasets/GAIR/ToRL/torl.pdf" target="_blank">Paper</a> &nbsp; | &nbsp;
-  🌐 <a href="https://huggingface.co/datasets/GAIR/ToRL" target="_blank">Dataset</a> &nbsp; | &nbsp;
+  🌐 <a href="https://github.com/GAIR-NLP/ToRL/tree/main/data/torl_data" target="_blank">Dataset</a> &nbsp; | &nbsp;
   📘 <a href="https://huggingface.co/GAIR/ToRL" target="_blank">Model</a>
 </p>
 
@@ -31,7 +31,7 @@
 [2025/03/28] We're releasing the following components:
 
 - 🚀 **Training**: Complete implementation of our training pipeline
-- 🔥 **[ToRL Dataset](https://huggingface.co/datasets/GAIR/ToRL)**: Our curated dataset of 28k mathematical questions
+- 🔥 **[ToRL Dataset](https://github.com/GAIR-NLP/ToRL/tree/main/data/torl_data)**: Our curated dataset of 28k mathematical questions
 - 🤖 **[ToRL Model](https://huggingface.co/GAIR/ToRL)**: Model training with ToRL.
 
 ## Overview
