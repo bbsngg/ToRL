@@ -120,9 +120,13 @@ Our work builds upon the insightful technical reports from [DeepSeek R1](https:/
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@misc{li2025torl,
-      title={ToRL: Scaling Tool Integrated RL}, 
+@misc{li2025torlscalingtoolintegratedrl,
+      title={ToRL: Scaling Tool-Integrated RL}, 
       author={Xuefeng Li and Haoyang Zou and Pengfei Liu},
       year={2025},
+      eprint={2503.23383},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2503.23383}, 
 }
 ```
