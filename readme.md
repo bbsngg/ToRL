@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  📄 <a href="https://github.com/GAIR-NLP/ToRL/blob/main/ToRL.pdf" target="_blank">Paper</a> &nbsp; | &nbsp;
+  📄 <a href="https://arxiv.org/pdf/2503.23383" target="_blank">Paper</a> &nbsp; | &nbsp;
   🌐 <a href="https://github.com/GAIR-NLP/ToRL/tree/main/data/torl_data" target="_blank">Dataset</a> &nbsp; | &nbsp;
   📘 <a href="https://huggingface.co/GAIR/ToRL-7B" target="_blank">Model</a>
 </p>
